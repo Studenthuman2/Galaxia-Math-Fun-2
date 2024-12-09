@@ -211,4 +211,5 @@ function muResume() {
 function soundsDecoded() {
     mu.play(null, 0, vol * mu.xVol, mu.loop);
     setMuFXBtns();
-}
+}
+
