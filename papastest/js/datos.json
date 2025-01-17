@@ -1,0 +1,705 @@
+{
+    "productos":[
+        {
+            "id": 1,
+            "nombre": "Sundae Dark Cherry Oreo",
+            "precio": 14,
+            "imagen": "../img/item-1.png",
+            "categoria": "shakes"
+        },
+        {
+            "id": 2,
+            "nombre": "Sundae Sweet Bluberry Crumble",
+            "precio": 14,
+            "imagen": "../img/item-2.webp",
+            "categoria": "shakes"
+        },
+        {
+            "id": 3,
+            "nombre": "Sundae Crunchy Cookies",
+            "precio": 14,
+            "imagen": "../img/item-3.webp",
+            "categoria": "shakes"
+        },
+        {
+            "id": 4,
+            "nombre": "Sundae Rainbow Berries",
+            "precio": 14,
+            "imagen": "../img/item-4.webp",
+            "categoria": "shakes"
+        },
+        {
+            "id": 5,
+            "nombre": "Sundae Berry Blast Special",
+            "precio": 13,
+            "imagen": "../img/item-5.webp",
+            "categoria": "shakes"
+        },
+        {
+            "id": 6,
+            "nombre": "Sundae Sugarplum Streusel",
+            "precio": 13,
+            "imagen": "../img/item-6.webp",
+            "categoria": "shakes"
+        },
+        {
+            "id": 7,
+            "nombre": "Sundae Light Dream Machine",
+            "precio": 13,
+            "imagen": "../img/item-7.webp",
+            "categoria": "shakes"
+        },
+        {
+            "id": 8,
+            "nombre": "Sundae Calypso Island Cooler",
+            "precio": 13,
+            "imagen": "../img/item-8.webp",
+            "categoria": "shakes"
+        },
+        {
+            "id": 9,
+            "nombre": "2 Burguer Custom",
+            "precio": 16,
+            "imagen": "../img/item-9.jpg",
+            "categoria": "burger"
+        },
+        {
+            "id": 10,
+            "nombre": "Burger Double Veggie",
+            "precio": 12,
+            "imagen": "../img/item-10.webp",
+            "categoria": "burger"
+        },
+        {
+            "id": 11,
+            "nombre": "Burger King",
+            "precio": 12,
+            "imagen": "../img/item-11.jpg",
+            "categoria": "burger"
+        },
+        {
+            "id": 12,
+            "nombre": "Burger Special Papa's",
+            "precio": 12,
+            "imagen": "../img/item-12.webp",
+            "categoria": "burger"
+        },
+        {
+            "id": 13,
+            "nombre": "French Toast Daily",
+            "precio": 15,
+            "imagen": "../img/item-13.webp",
+            "categoria": "pancake"
+        },
+        {
+            "id": 14,
+            "nombre": "Pancake Maple Mountain",
+            "precio": 15,
+            "imagen": "../img/item-14.webp",
+            "categoria": "pancake"
+        },
+        {
+            "id": 15,
+            "nombre": "Pancake BlueBerry Buckle",
+            "precio": 15,
+            "imagen": "../img/item-15.webp",
+            "categoria": "pancake"
+        },
+        {
+            "id": 16,
+            "nombre": "Pancake Berries Lovers",
+            "precio": 15,
+            "imagen": "../img/item-16.webp",
+            "categoria": "pancake"
+        },
+        {
+            "id": 17,
+            "nombre": "Scoop Cinco De Mayo",
+            "precio": 11,
+            "imagen": "../img/item-17.webp",
+            "categoria": "scooper"
+        },
+        {
+            "id": 18,
+            "nombre": "Scoop Thanksgiving",
+            "precio": 11,
+            "imagen": "../img/item-18.webp",
+            "categoria": "scooper"
+        },
+        {
+            "id": 19,
+            "nombre": "Scoop Baseball Season",
+            "precio": 11,
+            "imagen": "../img/item-19.webp",
+            "categoria": "scooper"
+        },
+        {
+            "id": 20,
+            "nombre": "Scoop Holi Summer",
+            "precio": 11,
+            "imagen": "../img/item-20.webp",
+            "categoria": "scooper"
+        },
+        {
+            "id": 21,
+            "nombre": "Scoop Easter Bunny",
+            "precio": 11,
+            "imagen": "../img/item-21.webp",
+            "categoria": "scooper"
+        },
+        {
+            "id": 22,
+            "nombre": "Scoop Summer Lau",
+            "precio": 11,
+            "imagen": "../img/item-22.webp",
+            "categoria": "scooper"
+        },
+        {
+            "id": 23,
+            "nombre": "Scoop Onion Fest",
+            "precio": 11,
+            "imagen": "../img/item-23.webp",
+            "categoria": "scooper"
+        },
+        {
+            "id": 24,
+            "nombre": "Scoop Chery Blossom Fest",
+            "precio": 12,
+            "imagen": "../img/item-24.webp",
+            "categoria": "scooper"
+        },
+        {
+            "id": 25,
+            "nombre": "Scoop New Year",
+            "precio": 12,
+            "imagen": "../img/item-25.webp",
+            "categoria": "scooper"
+        },
+        {
+            "id": 26,
+            "nombre": "Scoop Starlight Jubile",
+            "precio": 12,
+            "imagen": "../img/item-26.webp",
+            "categoria": "scooper"
+        },
+        {
+            "id": 27,
+            "nombre": "Scoop Big Top Carn",
+            "precio": 13,
+            "imagen": "../img/item-27.webp",
+            "categoria": "scooper"
+        },
+        {
+            "id": 28,
+            "nombre": "2pcs Cupcake Fall Flavor",
+            "precio": 12,
+            "imagen": "../img/item-28.webp",
+            "categoria": "cupcake"
+        },
+        {
+            "id": 29,
+            "nombre": "2pcs Cupcake Chery Blossom",
+            "precio": 12,
+            "imagen": "../img/item-29.webp",
+            "categoria": "cupcake"
+        },
+        {
+            "id": 30,
+            "nombre": "2pcs Cupcake Plain Froosting",
+            "precio": 12,
+            "imagen": "../img/item-30.webp",
+            "categoria": "cupcake"
+        },
+        {
+            "id": 31,
+            "nombre": "2pcs Cupcake Top Cherry",
+            "precio": 12,
+            "imagen": "../img/item-31.jpg",
+            "categoria": "cupcake"
+        },
+        {
+            "id": 32,
+            "nombre": "HotDog Cinco de Mayo Special",
+            "precio": 15,
+            "imagen": "../img/item-32.webp",
+            "categoria": "hotdog"
+        },
+        {
+            "id": 33,
+            "nombre": "HotDog Christmas Edition",
+            "precio": 15,
+            "imagen": "../img/item-33.webp",
+            "categoria": "hotdog"
+        },
+        {
+            "id": 34,
+            "nombre": "HotDog Valentine's Day",
+            "precio": 15,
+            "imagen": "../img/item-34.webp",
+            "categoria": "hotdog"
+        },
+        {
+            "id": 35,
+            "nombre": "HotDog StarLight BBQ",
+            "precio": 15,
+            "imagen": "../img/item-35.webp",
+            "categoria": "hotdog"
+        },
+        {
+            "id": 36,
+            "nombre": "HotDog SugarPlex Flim.",
+            "precio": 15,
+            "imagen": "../img/item-36.webp",
+            "categoria": "hotdog"
+        },
+        {
+            "id": 37,
+            "nombre": "HotDog Summer Lau",
+            "precio": 15,
+            "imagen": "../img/item-37.webp",
+            "categoria": "hotdog"
+        },
+        {
+            "id": 38,
+            "nombre": "HotDog GroovStock",
+            "precio": 15,
+            "imagen": "../img/item-38.webp",
+            "categoria": "hotdog"
+        },
+        {
+            "id": 39,
+            "nombre": "Pie Style SugarPlex Film.",
+            "precio": 16,
+            "imagen": "../img/item-39.webp",
+            "categoria": "bakery"
+        },
+        {
+            "id": 40,
+            "nombre": "Pie Style Hallowen Flavor",
+            "precio": 16,
+            "imagen": "../img/item-40.webp",
+            "categoria": "bakery"
+        },
+        {
+            "id": 41,
+            "nombre": "Pie Style Big Top Carn.",
+            "precio": 16,
+            "imagen": "../img/item-41.webp",
+            "categoria": "bakery"
+        },
+        {
+            "id": 42,
+            "nombre": "Pie Style Valentine's Day",
+            "precio": 16,
+            "imagen": "../img/item-42.webp",
+            "categoria": "bakery"
+        },
+        {
+            "id": 43,
+            "nombre": "Pie Style Starlight Jubilee",
+            "precio": 16,
+            "imagen": "../img/item-43.webp",
+            "categoria": "bakery"
+        },
+        {
+            "id": 44,
+            "nombre": "Pie Style St. Paddy's Day",
+            "precio": 16,
+            "imagen": "../img/item-44.webp",
+            "categoria": "bakery"
+        },
+        {
+            "id": 45,
+            "nombre": "Dount Colorful Sprinkle ",
+            "precio": 8,
+            "imagen": "../img/item-45.webp",
+            "categoria": "donas"
+        },
+        {
+            "id": 46,
+            "nombre": "Donut Original non-topping",
+            "precio": 8,
+            "imagen": "../img/item-46.webp",
+            "categoria": "donas"
+        },
+        {
+            "id": 47,
+            "nombre": "Waffle Donut non-topping",
+            "precio": 7,
+            "imagen": "../img/item-47.webp",
+            "categoria": "donas"
+        },
+        {
+            "id": 48,
+            "nombre": "Donut Roll non-topping",
+            "precio": 7,
+            "imagen": "../img/item-48.webp",
+            "categoria": "donas"
+        },
+        {
+            "id": 49,
+            "nombre": "Paleta Style Easter",
+            "precio": 9,
+            "imagen": "../img/item-49.webp",
+            "categoria": "paletas"
+        },
+        {
+            "id": 50,
+            "nombre": "Paleta Style Holi",
+            "precio": 9,
+            "imagen": "../img/item-50.webp",
+            "categoria": "paletas"
+        },
+        {
+            "id": 51,
+            "nombre": "Paleta Style New Year",
+            "precio": 9,
+            "imagen": "../img/item-51.webp",
+            "categoria": "paletas"
+        },
+        {
+            "id": 52,
+            "nombre": "Paleta Style Pink Easter ",
+            "precio": 9,
+            "imagen": "../img/item-52.webp",
+            "categoria": "paletas"
+        },
+        {
+            "id": 53,
+            "nombre": "Paleta Style Thanksgiving",
+            "precio": 9,
+            "imagen": "../img/item-53.webp",
+            "categoria": "paletas"
+        },
+        {
+            "id": 54,
+            "nombre": "Paleta Style Hallowen",
+            "precio": 9,
+            "imagen": "../img/item-54.webp",
+            "categoria": "paletas"
+        },
+        {
+            "id": 55,
+            "nombre": "Paleta Pirate Bash",
+            "precio": 9,
+            "imagen": "../img/item-55.webp",
+            "categoria": "paletas"
+        },
+        {
+            "id": 56,
+            "nombre": "Pizza Cinco de Mayo Size: L",
+            "precio": 16,
+            "imagen": "../img/item-56.webp",
+            "categoria": "pizza"
+        },
+        {
+            "id": 57,
+            "nombre": "Pizza Mapple Morning Size: M",
+            "precio": 13,
+            "imagen": "../img/item-57.webp",
+            "categoria": "pizza"
+        },
+        {
+            "id": 58,
+            "nombre": "Pizza StarLight BBQ Size: L",
+            "precio": 16,
+            "imagen": "../img/item-58.webp",
+            "categoria": "pizza"
+        },
+        {
+            "id": 59,
+            "nombre": "Pizza Lucky Matsuri Size: XL",
+            "precio": 21,
+            "imagen": "../img/item-59.webp",
+            "categoria": "pizza"
+        },
+        {
+            "id": 60,
+            "nombre": "Pizza Valentine's Day Size: L",
+            "precio": 16,
+            "imagen": "../img/item-60.webp",
+            "categoria": "pizza"
+        },
+        {
+            "id": 61,
+            "nombre": "4pcs Buffalo & 4pcs Ranch Wings",
+            "precio": 12,
+            "imagen": "../img/item-61.webp",
+            "categoria": "wings"
+        },
+        {
+            "id": 62,
+            "nombre": "4pcs Habanero & 4pcs Curry Wings",
+            "precio": 12,
+            "imagen": "../img/item-62.webp",
+            "categoria": "wings"
+        },
+        {
+            "id": 63,
+            "nombre": "4pcs Matsury & 4pcs Honey Wings",
+            "precio": 16,
+            "imagen": "../img/item-63.webp",
+            "categoria": "wings"
+        },
+        {
+            "id": 64,
+            "nombre": "4pcs Veggie Platter w season veggie",
+            "precio": 16,
+            "imagen": "../img/item-64.webp",
+            "categoria": "wings"
+        },
+        {
+            "id": 65,
+            "nombre": "8pcs Bomb Atomic & 8pcs Korean Spicy",
+            "precio": 23,
+            "imagen": "../img/item-65.webp",
+            "categoria": "wings"
+        },
+        {
+            "id": 66,
+            "nombre": "4pcs Sweet Heat & 4pcs Smokehouse Wings",
+            "precio": 16,
+            "imagen": "../img/item-66.webp",
+            "categoria": "wings"
+        },
+        {
+            "id": 67,
+            "nombre": "4pcs Atomic Twist & 4pcs Indigo",
+            "precio": 16,
+            "imagen": "../img/item-67.webp",
+            "categoria": "wings"
+        },
+        {
+            "id": 68,
+            "nombre": "Special Dia de Muertos w/fries",
+            "precio": 14,
+            "imagen": "../img/item-68.webp",
+            "categoria": "cluckeria"
+        },
+        {
+            "id": 69,
+            "nombre": "Summer Sweet & Spciy w/fries",
+            "precio": 14,
+            "imagen": "../img/item-69.webp",
+            "categoria": "cluckeria"
+        },
+        {
+            "id": 70,
+            "nombre": "New Year Flavor Limited w/fries",
+            "precio": 14,
+            "imagen": "../img/item-70.webp",
+            "categoria": "cluckeria"
+        },
+        {
+            "id": 71,
+            "nombre": "Green Patty Healthy w/fries",
+            "precio": 14,
+            "imagen": "../img/item-71.webp",
+            "categoria": "cluckeria"
+        },
+        {
+            "id": 72,
+            "nombre": "Cowboy Starlight w/fries",
+            "precio": 14,
+            "imagen": "../img/item-72.webp",
+            "categoria": "cluckeria"
+        },
+        {
+            "id": 73,
+            "nombre": "Croosaint Spicy Chicken",
+            "precio": 16,
+            "imagen": "../img/item-73.webp",
+            "categoria": "cluckeria"
+        },
+        {
+            "id": 74,
+            "nombre": "Croosaint Eggeaster w/fries",
+            "precio": 15,
+            "imagen": "../img/item-74.webp",
+            "categoria": "cluckeria"
+        },
+        {
+            "id": 75,
+            "nombre": "Mr. Bombolony Size w/fries",
+            "precio": 14,
+            "imagen": "../img/item-75.webp",
+            "categoria": "cluckeria"
+        },
+        {
+            "id": 76,
+            "nombre": "Valentine's Cluckeria w/fries",
+            "precio": 14,
+            "imagen": "../img/item-76.webp",
+            "categoria": "cluckeria"
+        },
+        {
+            "id": 77,
+            "nombre": "Thanksgiving edition turkey w/fries",
+            "precio": 14,
+            "imagen": "../img/item-77.webp",
+            "categoria": "cluckeria"
+        },
+        {
+            "id": 78,
+            "nombre": "Sushi Dragon Crunch rolls",
+            "precio": 19,
+            "imagen": "../img/item-78.webp",
+            "categoria": "sushi"
+        },
+        {
+            "id": 79,
+            "nombre": "Sushi Philadelphia-Cuc rolls",
+            "precio": 19,
+            "imagen": "../img/item-79.webp",
+            "categoria": "sushi"
+        },
+        {
+            "id": 80,
+            "nombre": "Sushi Maki Salmon rolls",
+            "precio": 19,
+            "imagen": "../img/item-80.jpg",
+            "categoria": "sushi"
+        },
+        {
+            "id": 81,
+            "nombre": "Pasta Puttanesca Italian Started",
+            "precio": 17,
+            "imagen": "../img/item-81.webp",
+            "categoria": "pasta"
+        },
+        {
+            "id": 82,
+            "nombre": "Spaguetti with seashell sauce",
+            "precio": 17,
+            "imagen": "../img/item-82.webp",
+            "categoria": "pasta"
+        },
+        {
+            "id": 83,
+            "nombre": "Chessy Spaguetti Alfredo",
+            "precio": 17,
+            "imagen": "../img/item-83.webp",
+            "categoria": "pasta"
+        },
+        {
+            "id": 84,
+            "nombre": "Spaguetti with meat ball sauce",
+            "precio": 17,
+            "imagen": "../img/item-84.webp",
+            "categoria": "pasta"
+        },
+        {
+            "id": 85,
+            "nombre": "Spaguetti baked squid puffs",
+            "precio": 17,
+            "imagen": "../img/item-85.webp",
+            "categoria": "pasta"
+        },
+        {
+            "id": 86,
+            "nombre": "Taco style Starlight BBQ",
+            "precio": 11,
+            "imagen": "../img/item-86.webp",
+            "categoria": "taco"
+        },
+        {
+            "id": 87,
+            "nombre": "Taco style Valentine's Day",
+            "precio": 11,
+            "imagen": "../img/item-87.webp",
+            "categoria": "taco"
+        },
+        {
+            "id": 88,
+            "nombre": "Taco style New Year Eve.",
+            "precio": 11,
+            "imagen": "../img/item-88.webp",
+            "categoria": "taco"
+        },
+        {
+            "id": 89,
+            "nombre": "Taco style Big Top Carnival",
+            "precio": 11,
+            "imagen": "../img/item-89.webp",
+            "categoria": "taco"
+        },
+        {
+            "id": 90,
+            "nombre": "Taco style Bavaria Fest Ev.",
+            "precio": 11,
+            "imagen": "../img/item-90.webp",
+            "categoria": "taco"
+        },
+        {
+            "id": 91,
+            "nombre": "Taco style SummerLau Special",
+            "precio": 11,
+            "imagen": "../img/item-91.webp",
+            "categoria": "taco"
+        },
+        {
+            "id": 92,
+            "nombre": "Taco style St. Paddy's Day",
+            "precio": 11,
+            "imagen": "../img/item-92.webp",
+            "categoria": "taco"
+        },
+        {
+            "id": 93,
+            "nombre": "Taco style Portallini Feast",
+            "precio": 11,
+            "imagen": "../img/item-93.webp",
+            "categoria": "taco"
+        },
+        {
+            "id": 94,
+            "nombre": "Starlight BBQ chesseria w/shake",
+            "precio": 14,
+            "imagen": "../img/item-94.webp",
+            "categoria": "chesse"
+        },
+        {
+            "id": 95,
+            "nombre": "Thanksgiving chesseria w/shake",
+            "precio": 14,
+            "imagen": "../img/item-95.webp",
+            "categoria": "chesse"
+        },
+        {
+            "id": 96,
+            "nombre": "Portallini Feast chesseria w/shake",
+            "precio": 14,
+            "imagen": "../img/item-96.webp",
+            "categoria": "chesse"
+        },
+        {
+            "id": 97,
+            "nombre": "Cinco de Mayo chesseria w/shake",
+            "precio": 14,
+            "imagen": "../img/item-97.webp",
+            "categoria": "chesse"
+        },
+        {
+            "id": 98,
+            "nombre": "St Paddy's Day chesseria w/shake",
+            "precio": 14,
+            "imagen": "../img/item-98.webp",
+            "categoria": "chesse"
+        },
+        {
+            "id": 99,
+            "nombre": "Valentine's Day chesseria w/shake",
+            "precio": 14,
+            "imagen": "../img/item-99.webp",
+            "categoria": "chesse"
+        },
+        {
+            "id": 100,
+            "nombre": "Mapple Morning chesseria w/shake",
+            "precio": 14,
+            "imagen": "../img/item-100.webp",
+            "categoria": "chesse"
+        }
+    ]
+}
+

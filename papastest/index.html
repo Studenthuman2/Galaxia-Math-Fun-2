@@ -1,0 +1,83 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="./css/styles.css">
+    <link rel="stylesheet" type="text/css" href="https://cdn.jsdelivr.net/npm/toastify-js/src/toastify.min.css">
+    <title>CLASE 01</title>
+</head>
+<nav>
+    <img class="logo" src="./img/papa-louie-welcome2.png" alt="">
+    <img  class="sign" src="./img/papa-louie-3.webp" height="150px">
+    <div id="icono-carrito" onclick="alternarCarrito()">
+        <span id="contador-carrito">0</span> 🛒
+    </div>
+</nav>
+<body class="color">
+    <div class="button">
+        <button class="boton"><a href="./index.html">Inicio</a></button>
+        <button class="boton"><a href="./index.html">Ubicaciones</a></button>
+        <button class="boton"><a href="./index.html">Proximamente</a></button>
+        <button class="boton"><a href="./index.html">Ofertas</a></button>
+    </div>
+    <div class="bienvenido">
+        <img class="bienvenido-img" src="./img/bienvenido-1.png" alt="">
+        <div class="text-overlay">Bienvenidos!</div>
+        <div class="proximamente">
+            <img class="proximamente-1" src="./img/proximamente-1.jpg" alt="">
+        </div>
+    </div>
+    <div id="container"></div>
+    <div id="product-container" class="product-container" data-categoria="main"></div>
+    <section id="carrito" class="carrito">
+        <h2>Carrito de Compras</h2>
+        <ul id="items-carrito"></ul>
+        <p class="total-price">Total: $<span id="precio-total">0</span></p>
+        <button id="finalizar-compra" onclick="finalizarCompra()">Finalizar Compra</button>
+    </section>
+    <div class="icon-container">
+        <div class="text-overlayy">Revisa nuestro menu!</div>
+        <a href="/pages/shakes.html"><img src="./img/freezeria-icon.avif" alt=""></a>
+        <a href="/pages/burger.html"><img src="./img/burger-icon.avif" alt=""></a>
+        <a href="/pages/pancakes.html"><img src="./img/pancake-icon.avif" alt=""></a>
+        <a href="/pages/scooper.html"><img src="./img/scooper-icon.avif" alt=""></a>
+        <a href="/pages/cupcake.html"><img src="./img/cupcakes-icon-new.avif" alt=""></a>
+        <a href="/pages/hotdog.html"><img src="./img/hotdog-icon.avif" alt=""></a>
+        <a href="/pages/bakery.html"><img src="./img/pie-icon.webp" alt=""></a>
+        <a href="/pages/donas.html"><img src="./img/donas-icon.avif" alt=""></a>
+        <a href="/pages/paleteria.html"><img src="./img/paletas-icon.webp" alt=""></a>
+        <a href="/pages/pizzeria.html"><img src="./img/pizzeria-icon.avif" alt=""></a>
+        <a href="/pages/wings.html"><img src="./img/wings-icon.avif" alt=""></a>
+        <a href="/pages/cluckeria.html"><img src="./img/cluckeria-icon.webp" alt=""></a>
+        <a href="/pages/sushi.html"><img src="./img/sushi-icon.avif" alt=""></a>
+        <a href="/pages/pasta.html"><img src="./img/pasta-icon.avif" alt=""></a>
+        <a href="/pages/taco.html"><img src="./img/taco-icon.webp" alt=""></a>
+        <a href="/pages/chesse.html"><img src="./img/grill-chesse-icon.png" alt=""></a>
+    </div>
+    <div class="gallery">
+        <div class="gallery-item">
+            <img src="img/galeria-3.jpeg" alt="Image 1">
+        </div>
+        <div class="gallery-item">
+            <img src="img/galeria-3.jpg" alt="Image 2">
+        </div>
+        <div class="gallery-item">
+            <img src="img/galeria-5.jpg" alt="Image 3">
+        </div>
+        <div class="gallery-item">
+            <img src="img/galeria-4.webp" alt="Image 4">
+        </div>
+        <div class="gallery-item">
+            <img src="img/galeria-6.jpg" alt="Image 5">
+        </div>
+        <div class="gallery-item">
+            <img src="img/galeria-7.jpg" alt="Image 6">
+        </div>
+    </div>
+    
+    <script src="./js/index.js"></script>
+    <script src="https://cdn.jsdelivr.net/npm/toastify-js"></script>
+    <script src="https://cdn.jsdelivr.net/npm/sweetalert2@11"></script>
+</body>
+</html>

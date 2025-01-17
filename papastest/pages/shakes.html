@@ -1,0 +1,38 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="/css/styles.css">
+    <link rel="stylesheet" type="text/css" href="https://cdn.jsdelivr.net/npm/toastify-js/src/toastify.min.css">
+    <title>Papa's Frezzeria</title>
+</head>
+<nav>
+    <img class="logo" src="/img/papa-louie-welcome2.png" alt="">
+    <img  class="sign" src="/img/papa-louie-3.webp" height="150px">
+    <div id="icono-carrito" onclick="alternarCarrito()">
+        <span id="contador-carrito">0</span> 🛒
+    </div>
+</nav>
+<body>
+    <div class="button">
+        <button class="boton"><a href="/index.html">Inicio</a></button>
+        <button class="boton"><a href="/index.html">Ubicaciones</a></button>
+        <button class="boton"><a href="/index.html">Proximamente</a></button>
+        <button class="boton"><a href="/index.html">Ofertas</a></button>
+    </div>
+    <p class="title">Papa's Freezeria</p>
+    <div id="container"></div>
+    <div id="product-container" class="product-container" data-categoria="shakes"></div>
+    <section id="carrito" class="carrito">
+        <h2>Carrito de Compras</h2>
+        <ul id="items-carrito"></ul>
+        <p class="total-price">Total: $<span id="precio-total">0</span></p>
+        <button id="finalizar-compra" onclick="finalizarCompra()">Finalizar Compra</button>
+    </section>
+
+    <script src="/js/index.js"></script>
+    <script src="https://cdn.jsdelivr.net/npm/toastify-js"></script>
+    <script src="https://cdn.jsdelivr.net/npm/sweetalert2@11"></script>
+</body>
+</html>
